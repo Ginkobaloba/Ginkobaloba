@@ -80,6 +80,10 @@ Platform	Link
 
 LinkedIn	https://www.linkedin.com/in/andrew-mattick-235130127
 
+Hugging Face https://www.huggingface.co/ginkobaloba
+
+Stack Overflow https://stackoverflow.com/users/6932262/ginkobaloba
+
 GitHub	https://github.com/ginkobaloba
 
 ---
