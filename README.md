@@ -1,108 +1,46 @@
-Hi, I’m Drew (aka Ginkobaloba) 👋
+# Drew Mattick
 
-AI Systems Engineer · Undergraduate CS Student · Former C# / Blazor Developer · Distributed Cognition & Robotics Researcher
+Engineer building agentic AI systems, distributed cognitive architectures, and the runtime tooling that keeps multi-agent systems coherent over time. Headed for PhD research in AI alignment, AI safety, long-horizon memory, and distributed systems.
 
-I’m an undergrad CS student with professional experience in C#/.NET development and a deep interest in building systems inspired by biological cognition from distributed GPU clusters (Project Nexus) to autonomous multi-agent robotics (Project Vector).
-My focus is ethically turning theory into living, experimental systems that learn, coordinate, and perceive the world.
+## Flagship work
 
+**[ProjectNexus](https://github.com/Ginkobaloba/ProjectNexus) -- distributed cognitive architecture**
+A multi-node AI system that maps biological cognition (peripheral sensing, brainstem filtering, hippocampal memory, cortical reasoning, consolidation) onto heterogeneous hardware: Jetson edge devices, a 4070 "brainstem" node, NAS-backed long-term memory, and a 4090 "cortex". Marketing site at [projectnexuscode.org](https://projectnexuscode.org).
 
----
+**Project Vector -- autonomous multi-agent robotics**
+Multi-agent autonomous vehicles: course following, obstacle detection, intersection negotiation, vehicle-to-vehicle communication, and shared mapping. Provisional patent covering the zone-association engine, spatial intelligence layer, and autonomous navigation approach. Development repo is private.
 
-💼 Professional Background
+**[agile-cards](https://github.com/Ginkobaloba/agile-cards) + [agile-cards-board](https://github.com/Ginkobaloba/agile-cards-board) -- agentic delivery system**
+A tiered card system for running a portfolio of projects with a fleet of AI agents. Dual-axis model routing, parallel-claimable cards, machine-checkable acceptance criteria. Board is the React + TypeScript dashboard, served behind Cloudflare Access.
 
-C# / Blazor Developer — Multiple Companies
-Worked on front-end and full-stack .NET applications, internal tooling, and enterprise features.
+**[project-quantum-nexus](https://github.com/Ginkobaloba/project-quantum-nexus) -- quantum methods for distributed power systems**
+Near-term quantum algorithms (VQE, QAOA, quantum kernels) applied to power-system state estimation, anomaly detection, and energy scheduling. Qiskit, IBM open-access backends.
 
-Founder & Independent Developer — Paradigm Coding Solutions, LLC
-Self-directed software development practice focusing on .NET, C#, Blazor, and experimental AI/automation projects.
-Used as a platform for portfolio building, contracting availability, and continuous technical growth.
+**[Nexus-Automation-Node](https://github.com/Ginkobaloba/Nexus-Automation-Node)**
+Self-hosted n8n stack, Docker-packaged, that runs the workflow and integration layer for Project Nexus.
 
+## Background
 
----
+- Professional .NET / C# / Blazor development across multiple companies and an independent practice (Paradigm Coding Solutions, LLC).
+- Current stack is Python-first with C# / .NET as a secondary lane.
+- Education: B.S. Computer Science (in progress); preparing for PhD research in AI alignment, distributed cognition, and autonomous systems.
 
-🚀 Current Projects
+## Stack
 
-🔹 Project Nexus – Distributed Synthetic Cognition
+- **Languages:** Python, C# / .NET, TypeScript, Java
+- **AI / ML:** PyTorch, CUDA, TensorRT-LLM, ONNX, Qiskit, vector stores, LLM orchestration
+- **Robotics & edge:** Jetson, ESP32 / Arduino, ROS2, PID control, sensor fusion
+- **Infrastructure:** Docker, Linux, Cloudflare Tunnels, NAS, distributed compute
+- **Web:** Blazor, .NET, REST, React + TypeScript, Tailwind
 
-A biologically inspired, multi-node cognitive architecture built on Jetson edge devices and high-performance GPUs.
-Focus areas:
+## Research interests
 
-Multi-device inference
+Agentic AI safety, alignment, long-horizon memory and synthetic continuity for LLMs, biologically-inspired distributed cognition, multi-agent coordination, edge inference, and the alignment problems that emerge once a model has persistent state.
 
-Memory organization & replay
+## Contact
 
-Cross-node coherence
+- LinkedIn: [andrew-mattick](https://www.linkedin.com/in/andrew-mattick-235130127)
+- Hugging Face: [@ginkobaloba](https://huggingface.co/ginkobaloba)
+- Email: dramattick1 [at] gmail.com
 
-Safe emergent behavior
-
-
-
----
-
-🔹 Project Vector – Autonomous Robotics Platform
-
-A multi-agent system of RC vehicles capable of course following, obstacle detection, intersection negotiation, V2V communication, and shared mapping.
-Evolving into a lightweight testbed for edge-based LLM reasoning and cooperative autonomy.
-
-
----
-
-🎓 Academic Path
-
-B.S. Computer Science — In Progress
-Preparing for future PhD research in AI systems engineering, distributed cognition, and autonomous robotics.
-
-
----
-
-🧠 Technical Interests
-
-Distributed intelligence • autonomous robotics • edge AI • CUDA • Jetson • LLM integration • sensor fusion • synthetic memory systems
-
-
----
-
-🛠️ Skills & Tools
-
-Languages: C#, Python, Java, JavaScript
-AI/ML: PyTorch, TensorRT-LLM, CUDA, ONNX
-Robotics: Jetson Nano, Arduino/ESP32, ROS2, PID systems
-Systems: Docker, Linux, NAS, Cloudflare Tunnels
-Web/Software: .NET, Blazor, REST APIs, SQL
-Dev Tools: Git, GitHub, VS Code
-
-
----
-
-🌐 Find Me Online
-
-Platform	Link
-
-LinkedIn	https://www.linkedin.com/in/andrew-mattick-235130127
-
-Hugging Face https://www.huggingface.co/ginkobaloba
-
-Stack Overflow https://stackoverflow.com/users/6932262/ginkobaloba
-
-GitHub	https://github.com/ginkobaloba
-
----
-
-📈 Current Goals
-
-Expand open-source contributions
-
-Publish Nexus & Vector documentation
-
-Build a competitive research portfolio for PhD admissions
-
-Continue developing distributed intelligence architectures
-
-
----
-
-💬 Let’s Connect
-
-Open to collaborations in AI, robotics, distributed cognition, and experimental system design. 
-
-If anyone has a small LIDAR system they aren't using, I would put it to great use and I'm sure we could find a way for it to be a tax write-off 😁
+Open to collaboration on distributed AI systems, autonomous robotics, agentic tooling, and applied alignment work.
