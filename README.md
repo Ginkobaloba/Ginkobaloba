@@ -41,6 +41,6 @@ Agentic AI safety, alignment, long-horizon memory and synthetic continuity for L
 
 - LinkedIn: [andrew-mattick](https://www.linkedin.com/in/andrew-mattick-235130127)
 - Hugging Face: [@ginkobaloba](https://huggingface.co/ginkobaloba)
-- Email: dramattick1 [at] gmail.com
+- Email: drew [at] paradigm.codes
 
 Open to collaboration on distributed AI systems, autonomous robotics, agentic tooling, and applied alignment work.
